@@ -21,12 +21,12 @@ sdist/
 var/
 wheels/
 share/python-wheels/
-swigwin-4.3.0/
-.vscode
 *.egg-info/
 .installed.cfg
 *.egg
 MANIFEST
+swigwin-4.3.0/
+.vscode/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -207,3 +207,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Streamlit
+.streamlit/secrets.toml
