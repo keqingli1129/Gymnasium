@@ -16,4 +16,7 @@ print("observation space shape:", env.observation_space.shape)
 print("sample observation:", env.observation_space.sample())
 print("sample observation:", env.observation_space.sample())
 print("sample observation:", env.observation_space.sample())
+print("sample observation:", env.observation_space.sample())
+print("sample observation:", env.observation_space.sample())
+
 env.close()
