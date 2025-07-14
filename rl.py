@@ -18,5 +18,5 @@ print("sample observation:", env.observation_space.sample())
 print("sample observation:", env.observation_space.sample())
 print("sample observation:", env.observation_space.sample())
 print("sample observation:", env.observation_space.sample())
-
+print("sample observation:", env.observation_space.sample())
 env.close()
