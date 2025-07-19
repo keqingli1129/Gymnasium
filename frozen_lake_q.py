@@ -19,6 +19,5 @@ nums = [1, 2, 3, 4, 5]
 if __name__ == "__main__":
     final_state = run()
     print(f"Final state: {final_state}")
-    print("Environment run completed.") 
-    print("You can now check the rendered output in the environment window.")   
+    
     
