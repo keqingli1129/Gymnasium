@@ -19,7 +19,7 @@ def determine_winner(player_choice, computer_choice):
         return 'player'
     else:
         return 'computer'
-    # //create a function to play the game
+    # //create a function to play the game.
 def play_game():    
     """Play the Rock Paper Scissors game."""
     player_score = 0
